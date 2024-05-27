@@ -13,7 +13,7 @@
 <div align="center">
   <h3>Connect with me:</h3>
   <p>
-  <a href="https://linkedin.com/in/linkedin.com/in/lautarosartor" target="_blank">
+  <a href="https://www.linkedin.com/in/lautarosartor/" target="_blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin.com/in/lautarosartor"/>
   </a>
   </p>

@@ -5,7 +5,7 @@
   <h3>Languages and Tools:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,php,dotnet,angular,mysql,sqlite,postman,git,github&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,dotnet,angular,mysql,sqlite,postman,git,github&perline=14" />
     </a>
   </p>
 </div>

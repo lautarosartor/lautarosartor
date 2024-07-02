@@ -1,3 +1,6 @@
+<div  align="right">
+  <img src="https://visitcount.itsvg.in/api?id=lautarosartor&label=Views&color=0&icon=5&pretty=true" />
+</div>
 <h1 align="center">Hi 👋, I'm Lautaro Sartor</h1>
 <h3 align="center">Argentinian developer graduated in Universidad Tecnológica Nacional - Facultad Regional de Reconquista.</h3>
 
@@ -18,5 +21,3 @@
   </a>
   </p>
 </div>
-
-

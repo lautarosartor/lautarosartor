@@ -8,7 +8,7 @@
   <h3>Main languages and tools:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,react,go,mysql,postman,git,github&perline=14" />
+      <img src="https://skillicons.dev/icons?i=react,go,mysql,postman,git,github&perline=14" />
     </a>
   </p>
 </div>
@@ -17,7 +17,7 @@
   <h3>Others:</h3>
   <p>
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,dotnet,sqlite&perline=14" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,dotnet,sqlite&perline=14" />
     </a>
   </p>
 </div>

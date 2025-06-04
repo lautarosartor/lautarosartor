@@ -9,7 +9,7 @@
   <li>📚 Siempre aprendiendo, probando nuevas herramientas y formas de mejorar lo que ya existe</li>
   <li>📬 Podés encontrarme en <a href="https://www.linkedin.com/in/lautarosartor/" target="_blank">LinkedIn</a></li>
   <li>
-    Principales tecnologías:
+    ⭐ Principales tecnologías:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React" title="React"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" alt="Go" title="Go"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" alt="SQL Server" title="SQL Server"/>

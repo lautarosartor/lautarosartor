@@ -1,29 +1,41 @@
-<h1 align="center">Hi 👋, I'm Lautaro Sartor</h1>
-<h3 align="center">Argentinian developer graduated in Universidad Tecnológica Nacional - Facultad Regional de Reconquista.</h3>
+<h2>Hola 👋, soy Lautaro Sartor</h2>
 
-<div align="center">
-  <h3>Main languages and tools:</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=react,go,mysql,postman,git,github&perline=14" />
-    </a>
-  </p>
-</div>
+<ul>
+  <li>👨‍💻 Desarrollador fullstack Argentino, egresado de la UTN - FRRq</li>
+  <li>💼 Actualmente trabajo en una empresa de logística desarrollando APIs, interfaces web y bases de datos</li>
+  <li>🛠 Me encargo de tareas variadas: desde nuevas funcionalidades hasta reestructuración de sistemas existentes</li>
+  <li>🧠 Apasionado por escribir código claro, funcional y fácil de mantener</li>
+  <li>🤝 Valoro mucho la comunicación en equipo y compartir soluciones simples pero efectivas</li>
+  <li>📚 Siempre aprendiendo, probando nuevas herramientas y formas de mejorar lo que ya existe</li>
+  <li>📬 Podés encontrarme en <a href="https://www.linkedin.com/in/lautarosartor/" target="_blank">LinkedIn</a></li>
+  <li>
+    Principales tecnologías:
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" alt="React" title="React"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="20" alt="Go" title="Go"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="20" alt="SQL Server" title="SQL Server"/>
+  </li>
+</ul>
+<hr/>
 
-<div align="center">
-  <h3>Others:</h3>
-  <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,dotnet,sqlite&perline=14" />
-    </a>
-  </p>
-</div>
-  
-<div align="center">
-  <h3>Connect with me:</h3>
-  <p>
-  <a href="https://www.linkedin.com/in/lautarosartor/" target="_blank">
-    <img align="center" src="https://skillicons.dev/icons?i=linkedin&perline=14" alt="linkedin.com/in/lautarosartor"/>
-  </a>
-  </p>
-</div>
+<h3>🧰 Tecnologías</h3>
+<ul>
+  <li>
+    <strong>Lenguajes:</strong>
+    Go · JavaScript · SQL
+  </li>
+  <li>
+    <strong>Frontend:</strong>
+    React · Ant Design · Bootstrap · Tailwind
+  </li>
+  <li>
+    <strong>Backend:</strong> Echo · GORM
+  </li>
+  <li>
+    <strong>Bases de datos:</strong>
+    SQL Server · MySQL
+  </li>
+  <li>
+    <strong>Herramientas:</strong>
+    Git · GitHub · Postman
+  </li>
+</ul>

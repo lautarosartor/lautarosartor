@@ -1,4 +1,4 @@
-<h2>Hola 👋, soy Lautaro Sartor</h2>
+<h2>Hola 👋 soy Lautaro Sartor</h2>
 
 <ul>
   <li>👨‍💻 Desarrollador fullstack Argentino, egresado de la UTN - FRRq</li>
@@ -18,24 +18,27 @@
 <hr/>
 
 <h3>🧰 Tecnologías</h3>
-<ul>
-  <li>
-    <strong>Lenguajes:</strong>
-    Go · JavaScript · SQL
-  </li>
-  <li>
-    <strong>Frontend:</strong>
-    React · Ant Design · Bootstrap · Tailwind
-  </li>
-  <li>
-    <strong>Backend:</strong> Echo · GORM
-  </li>
-  <li>
-    <strong>Bases de datos:</strong>
-    SQL Server · MySQL
-  </li>
-  <li>
-    <strong>Herramientas:</strong>
-    Git · GitHub · Postman
-  </li>
-</ul>
+<table>
+  <tbody>
+    <tr>
+      <td><strong>Lenguajes</strong></td>
+      <td>Go · JavaScript · SQL</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks Frontend</strong></td>
+      <td>React · Ant Design · Bootstrap · Tailwind</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks Backend</strong></td>
+      <td>Echo · GORM</td>
+    </tr>
+    <tr>
+      <td><strong>Bases de datos</strong></td>
+      <td>SQL Server · MySQL</td>
+    </tr>
+    <tr>
+      <td><strong>Herramientas</strong></td>
+      <td>Git · GitHub · Postman</td>
+    </tr>
+  </tbody>
+</table>

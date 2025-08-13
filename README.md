@@ -25,7 +25,7 @@
       <td>Go · JavaScript · SQL</td>
     </tr>
     <tr>
-      <td><strong>Frameworks Frontend</strong></td>
+      <td><strong>Frameworks y Librerías Frontend</strong></td>
       <td>React · Ant Design · Bootstrap · Tailwind</td>
     </tr>
     <tr>
